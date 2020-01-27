@@ -65,6 +65,20 @@ Project maintainers who do not follow or enforce the Code of Conduct in good
 faith may face temporary or permanent repercussions as determined by other
 members of the project's leadership.
 
+## Our Team Pledge
+
+1.	Everyone must try to make the group meetings and if not possible, there will be work left for whoever can’t make it or the meeting will be rescheduled. It is up to them to find out what they missed.
+2.	Work that is divided in a group meeting must be completed by the next meeting. 
+3.	As a team, help each other out and no one must feel they can’t ask for help. Everyone is working on the project together.
+4.	Meetings will occur three-four times a week to ensure the group keeps on top of the work.
+5.	No one must take on all of the project, the team have to equally contribute. This includes efforts to keep in contact and meet up.
+6.	All project team members must be able to access the project on GitHub and should save copies of anything necessary to their computers or pen drive.
+7.	Project team members have the responsibility to notify any potential difficulties in meeting the schedule for any assigned tasks as soon as it is known by the team member.
+8.	All team members must voice their opinions and all team members must listen to other members’ ideas and thoughts. 
+9.	All conflict will be addressed. Any issues the team have will be tackled together.
+10.	Everything should be kept organised and up to speed. 
+
+
 ## Attribution
 
 This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.4,
