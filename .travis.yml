@@ -1,1 +1,10 @@
-language : java
+sudo: required
+
+language: java
+
+services:
+- docker
+
+after_success:
+- docker build -t SET08103coursework .
+- docker run SET08103coursework
