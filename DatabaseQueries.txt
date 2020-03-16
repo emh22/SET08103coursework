@@ -1,0 +1,16 @@
+﻿1.
+SELECT name
+FROM country
+GROUP BY population DESC
+
+
+2.
+SELECT name, continent, population
+FROM country
+GROUP BY continent, population DESC
+
+
+3.
+SELECT name, region, population
+FROM country
+GROUP BY region, population DESC
